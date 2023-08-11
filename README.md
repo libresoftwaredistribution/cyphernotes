@@ -6,3 +6,4 @@ Uses [RNCrypto](https://github.com/RNCryptor/RNCryptor) for encryption.
 
 License: MIT
 
+![cypherNotes icon](./icon@2x.png)
